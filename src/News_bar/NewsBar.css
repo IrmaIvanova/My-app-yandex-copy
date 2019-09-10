@@ -1,0 +1,38 @@
+.NewsBar a{
+    text-decoration: none;
+    margin-right: 15px;
+    color: black;
+}
+
+.NewsBar{
+    width: 900px;
+    margin: 0 484px;
+    position: relative;
+    display: flex;
+}
+
+a.news_in_M {
+    color: #608be9;
+    font-weight: 500;
+}
+
+a.news_in_CMI {
+    color: #1f2acc;
+    font-weight: 500;
+}
+
+.clock{
+    font-size: 13px;
+    color: #9ea0a3;
+    font-weight: 200;
+}
+
+.news_block{
+    display: flex;
+    flex-direction: column;
+    text-align: left;
+    line-height: 1.9em;
+    width: 600px;
+
+}
+

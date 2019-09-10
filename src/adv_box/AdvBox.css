@@ -1,0 +1,15 @@
+.AdvBox{
+    display: flex;
+    flex-direction: column;
+    width: 200px;
+    text-align: left;
+    position:absolute;
+    right: 10%;
+    top: 10%;
+}
+
+.AdvBox img{
+    width: 120px;
+    height: 90px;
+    margin-bottom: 10px;
+}

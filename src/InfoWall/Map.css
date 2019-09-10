@@ -1,0 +1,28 @@
+.moscow_map{
+    display: flex;
+    flex-direction: column;
+
+    height: 40px;
+
+    width: 250px;
+    height: 100px;
+    margin: 0 10px;
+    position: relative;
+    /* border: 2px solid black; */
+
+ 
+}
+
+
+.items_map{
+    display:flex;
+    flex-wrap: wrap;
+    justify-content:flex-start;
+    align-items: center;
+    height: 40px;
+
+}
+
+.items_map a{
+    margin-bottom: 10px;
+}

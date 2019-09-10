@@ -1,0 +1,32 @@
+.search_tast{
+    -webkit-mask-image: url('./clava.svg');
+    position: absolute;
+    -webkit-mask-position: 297px 492px;
+    background: #a19e9e;
+    top: 41%;
+    right: 10.5%;
+    width: 27px;
+    height: 13px;
+    z-index: 10;
+}
+
+.search_tast:hover{
+    
+    background: #000;
+}
+
+.search_voice{
+    -webkit-mask-image: url('./micrifone.svg');
+    position: absolute;
+    -webkit-mask-position: 292px 455px;
+    background-color: rgb(219, 219, 219);
+    right: 14%;
+    top: 37%;
+    width: 31px;
+    height: 25px;
+    z-index: 10;
+}
+
+.search_voice:hover{
+    background-color:rgb(169, 169, 169);
+}

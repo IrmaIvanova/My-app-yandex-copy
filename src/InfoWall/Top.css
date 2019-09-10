@@ -1,0 +1,21 @@
+.top_items{
+    font-size: 13px;
+    line-height: 17px;
+    text-align: left;
+}
+
+.top_items a{
+    font-size: 13px;
+}
+
+.top{
+    display: flex;
+    flex-direction: column;
+    width: 250px;
+    height: 100px;
+    margin: 0 10px;
+    position: relative;
+    /* border: 2px solid black; */
+
+ 
+}

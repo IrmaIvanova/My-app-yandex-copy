@@ -1,0 +1,13 @@
+.example_search{
+    display: flex;
+    justify-content: space-between;
+    margin-top: 10px;
+}
+
+.speed_site{
+    background: url(../Tabs/quickyandex.png);
+    width: 66px;
+    height: 19px;
+    right: 27%;
+    position: absolute;
+}

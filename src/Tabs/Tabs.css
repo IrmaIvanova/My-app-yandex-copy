@@ -1,0 +1,15 @@
+ul.tabs{
+    display: flex;
+    justify-content: left;
+    margin: 10px 0;
+    padding: 0;
+    list-style: none;
+}
+
+ul.tabs a{
+    font-size: 16px;
+    color: #0054b9;
+    text-decoration: none;
+    margin-right: 25px;
+    
+}

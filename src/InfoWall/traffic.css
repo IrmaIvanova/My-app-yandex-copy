@@ -1,0 +1,40 @@
+.traffiс{
+    width: 250px;
+    height: 100px;
+    margin: 0 10px;
+    position: relative;
+    /* border: 2px solid black; */
+
+}
+
+ .items_traffic{
+    position: absolute;
+    display:flex;
+    justify-content:flex-end;
+    align-items: center;
+    height: 40px;
+    margin-left: 50px;
+}
+
+a.traffic_scale{
+    font-size: 26px;
+    margin: 5px;
+}
+   
+a.traffic_description{
+       font-size: 16px;
+       width: 200px;
+       text-align: left;
+   }
+   
+   
+.traffic_img{
+       background: url('./img/traffic.svg');
+       position: absolute;
+       background-size: 46px;
+       width: 46px;
+       height: 43px;
+       left: -20%;
+       top: -3%;
+   }
+   

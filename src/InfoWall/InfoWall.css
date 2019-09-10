@@ -1,0 +1,29 @@
+.info_wall{
+    margin: 0 484px 19px 484px;
+    width: 900px;
+    height: 255px;
+    padding-right: 36px;
+    /* border: 2px solid black; */
+    position: absolute;
+    display: flex;
+    flex-wrap: wrap;
+    font-size: 13px;
+    justify-content: flex-start;
+
+}
+
+.info_wall h1{
+    font-size: 18px;
+    color: blue;
+    font-family: 'Roboto', sans-serif;
+    font-weight: 400;
+    text-align: left;
+}
+
+.info_wall a{
+    margin: 0 5px;
+    font-size: 16px;
+
+}
+
+

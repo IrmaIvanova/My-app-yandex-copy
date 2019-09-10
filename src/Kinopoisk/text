@@ -1,0 +1,112 @@
+                    .media-play:before:hover img.poster{
+    content:'';
+    position: absolute;
+    visibility: visible;
+}
+                   
+                   
+                   
+                   
+                    <img className='poster' src={one} alt="academy"/>
+                    <img className='poster' src={two} alt="academy" />
+                    <img className='poster' src={tree} alt="academy" />
+                    <img className='poster' src={four} alt="academy" />
+                    <img className='poster' src={five} alt="academy" />
+                    <img className='poster' src={six} alt="academy" />
+                    <img className='poster' src={seven} alt="academy" />
+                    <img className='poster' src={two} alt="academy" />
+                    <img className='poster' src={tree} alt="academy" />
+                    <img className='poster' src={four} alt="academy" />
+                    <img className='poster' src={five} alt="academy" />
+                    <img className='poster' src={six} alt="academy" />
+
+
+
+
+                    import two from './img/2.jpeg';
+import tree from './img/3.jpeg';
+import four from './img/4.jpeg';
+import five from './img/5.jpeg';
+import six from './img/6.jpeg';
+import seven from './img/7.jpeg';
+
+
+import one from './img/1.jpeg';
+import two from './img/2.jpeg';
+import tree from './img/3.jpeg';
+import four from './img/4.jpeg';
+import five from './img/5.jpeg';
+import six from './img/6.jpeg';
+import seven from './img/7.jpeg';
+
+
+8,8Рейтинг 8,8
+Великая война
+6,0Рейтинг 6,0
+
+8,7Рейтинг 8,7
+
+8,6Рейтинг 8,6
+
+8,6Рейтинг 8,6
+
+8,5Рейтинг 8,5
+Джодха и Акбар: История великой любви
+8,5Рейтинг 8,5
+
+8,4Рейтинг 8,4
+Потомки солнца
+8,4Рейтинг 8,418+Возрастной рейтинг: 18+
+Убей меня, исцели меня
+8,3Рейтинг 8,318+Возрастной рейтинг: 18+
+
+8,3Рейтинг 8,3
+Женская доля
+8,3Рейтинг 8,3
+Земля: Один потрясающий день
+8,2Рейтинг 8,2
+Океаны
+8,2Рейтинг 8,2
+История Государства Российского
+8,1Рейтинг 8,118+Возрастной рейтинг: 18+
+Маккуин
+8,1Рейтинг 8,1
+Евгений Гришковец. Плюс один (спектакль)
+8,1Рейтинг 8,1
+Раскол
+8,1Рейтинг 8,1
+Лицом к лицу с Али
+8,1Рейтинг 8,1
+Тест на беременность
+8,1Рейтинг 8,1
+Счастливое число Слевина
+8,1Рейтинг 8,1
+Брат 2
+8,1Рейтинг 8,1
+Согласие
+8,1Рейтинг 8,118+Возрастной рейтинг: 18+
+Жизнь Дэвида Гейла
+8,0Рейтинг 8,0
+Тихий Дон
+8,0Рейтинг 8,0
+Параллельные миры
+7,0Рейтинг 7,018+Возрастной рейтинг: 18+
+Нимфоманка: Часть 1
+8,0Рейтинг 8,0
+Танцовщик
+8,0Рейтинг 8,0
+Сцены из супружеской жизни
+8,0Рейтинг 8,0
+Дикий ангел
+8,0Рейтинг 8,0
+Области тьмы
+8,0Рейтинг 8,0
+Крик совы
+8,0Рейтинг 8,0
+Диверсанты
+8,0Рейтинг 8,0
+Ласточкино гнездо
+8,0Рейтинг 8,0
+У каждого своя война
+8,0Рейтинг 8,0
+День выборов (спектакль)

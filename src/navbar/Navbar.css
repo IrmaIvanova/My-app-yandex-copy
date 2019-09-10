@@ -1,0 +1,39 @@
+.navbar_settings{
+
+    height: 50px;
+    width: auto;
+    display: flex;
+    position: relative;
+    align-items: center;
+
+    margin-right: -25px;
+    
+}
+
+
+
+.navbar_bar a{
+   margin:  7px 20px;
+   text-decoration: none;
+   color: black;
+
+}
+
+.navbar_bar a:hover{
+    color:red;
+}
+
+.navbar_bar{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    height: 42px;
+    margin: 8px 220px 6px 0;
+    padding: 0 18px 0 30px;
+    position: relative;
+}
+
+.user_box{
+    display: flex;
+
+}

@@ -1,0 +1,17 @@
+.logIn {
+    display: flex;
+    flex-direction: column;
+    text-align: left;
+    position: absolute;
+    top: 0%;
+    right: -10%;
+    margin-top: 5px;
+}
+
+.red{
+    color:red;
+}
+
+.user_name{
+    font-weight: 700;
+}

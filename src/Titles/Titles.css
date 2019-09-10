@@ -1,0 +1,15 @@
+.titles a{
+    background: none;
+    font-size: 18px;
+    color: blue;
+
+
+}
+
+.titles {
+    display: flex;
+    align-items: center;
+    width: auto;
+    height:45px;
+    margin: 0;
+}

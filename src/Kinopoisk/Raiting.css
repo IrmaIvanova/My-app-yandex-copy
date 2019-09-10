@@ -1,0 +1,12 @@
+.raiting span{
+    font-weight: 700;
+    font-size: 13px;
+    line-height: normal;
+    position: absolute;
+    bottom: 30px;
+    left: 18px;
+    padding: 2px 5px 3px;
+    color: #fff;
+    background-color: #60ce4a;
+    border-radius: 4px;
+}

@@ -1,0 +1,20 @@
+.advertisement_long{
+    width: 798px;
+    height: 92px;
+    margin: 18px 484px;
+    background: #87ce9998;
+    display: flex;
+    align-items: center;
+    justify-content: flex-start;
+}
+
+.advertisement_long a{
+    margin: 5px auto;
+
+}
+
+.advertisement_long a:hover{
+    margin: 5px auto;
+    color: #f5ebeb;
+
+}

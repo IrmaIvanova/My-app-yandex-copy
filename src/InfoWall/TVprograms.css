@@ -1,0 +1,34 @@
+.tv_programm p{
+    font-size: 15px;
+
+}
+
+
+.tv_programm .titles h1,.online .titles h1{
+    display: flex;
+    align-items: center;
+    width: 250px;
+    height: 45px;
+    margin: 0;
+}
+.tv_program_items{
+    text-align: left;
+}
+
+.tv_program_items a{
+    font-size: 13px;
+    color: #999;
+    margin-left: 10px;
+}
+
+.tv_programm{
+    display: flex;
+    flex-direction: column;
+    width: 250px;
+    height: 100px;
+    margin: 0 10px;
+    position: relative;
+    /* border: 2px solid black; */
+
+ 
+}

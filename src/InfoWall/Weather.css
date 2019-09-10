@@ -1,0 +1,40 @@
+.Weather{
+    width: 250px;
+    height: 100px;
+    margin: 0 10px;
+
+}
+.items{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: flex-start;
+    align-items: center;
+    margin-top: 5px;
+    margin-left: 40px;
+    margin-right: 57px;
+}
+
+.weather .items{
+    display: flex;
+    justify-content: space-evenly;
+}
+.t_night_morning{
+    display: flex;
+    flex-direction: column;
+    justify-content: flex-end;
+
+}
+.tempriture a{
+    position: relative;
+    font-size: 26px;
+
+}
+.t_img{
+    background: url('./img/weather.svg');
+    position: absolute;
+    background-size: 46px;
+    width: 46px;
+    height: 46px;
+    right: 99%;
+    top: -41%;
+}

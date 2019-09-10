@@ -1,0 +1,11 @@
+.extratitle{
+    margin: 265px 770px 0 auto;
+    padding-top: 30px;
+    font-size: 25px;
+    font-weight: 600;
+    color: #000000;
+}
+
+.extratitle:hover{
+    color: red;
+}

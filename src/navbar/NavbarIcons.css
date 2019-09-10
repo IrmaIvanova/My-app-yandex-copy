@@ -1,0 +1,46 @@
+.back_img_settings{
+    background: url('./beinplus.svg');
+    top: 22%;
+    right: 49%;
+    width: 25px;
+    height: 25px;
+    position: absolute;
+    padding: 0;
+}
+
+
+
+.colections:hover{
+    -webkit-mask-image: url('./flag.svg');
+    background-color: #999;
+    top: 3%;
+    right: 18.5%;
+    width: 25px;
+    height: 30px;
+    position: absolute;
+    padding: 0;
+}
+
+.colections{
+    -webkit-mask-image: url('./flag.svg');
+    background-color: rgb(194, 191, 191);
+    top: 3%;
+    right: 41.5%;
+    width: 25px;
+    height: 30px;
+    position: absolute;
+    padding: 0;
+
+}
+
+
+.notice_bell{
+    -webkit-mask-image: url('./bell.png');
+    -webkit-mask-size: 30px;
+    background: #999;
+    position: absolute;
+    width: 30px;
+    height: 30px;
+    top: 15.5%;
+    right: 30.2%;
+}

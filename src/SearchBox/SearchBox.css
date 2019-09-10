@@ -1,0 +1,70 @@
+.Search_container{
+    width: 880px;
+    height: 100px;
+    margin: 10px 484px;
+    position: relative;
+}
+
+.logoYandex{
+    position:absolute;
+    top:-7%;
+    left: -16%;
+}
+
+.input_search{
+    border: 2px solid #FFCC00;
+    width: 874px;
+    height: 38px;
+    display: flex;
+    justify-content: space-between;
+    text-align: center;
+    align-items: center;
+    
+}
+
+input{
+    border: none;
+
+    width: 728px;
+    height: 36px;
+}
+input:focus{
+    outline: none;
+}
+
+
+
+.btn_search{
+    width:78px;
+    height:38px;
+    /* padding:10px auto; */
+    background: #FFCC00;
+    border: none;
+    position: relative;
+}
+
+.btn_search_head .btn_search_text:before{
+    right: -16.2%;
+    top: -5%;
+    border-width: 19px 0px 21px 11px;
+    color: #FFCC00;
+    background-color:rgba(255,219,76,0);
+    position: absolute;
+}
+
+.btn_search_text{
+    overflow: hidden;
+}
+
+
+.btn_search .btn_search_text:before{
+    position: absolute;
+    width: 0;
+    height: 0;
+    content: '';
+    border-style: solid;
+    border-color: rgba(255,219,76,0);
+    border-left-color: inherit;
+
+}
+
