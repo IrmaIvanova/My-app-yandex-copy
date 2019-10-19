@@ -1,0 +1,32 @@
+{
+  "files": {
+    "main.css": "//irmaivanova.github.io/my-app.github.io/static/css/main.5c5bf409.chunk.css",
+    "main.js": "//irmaivanova.github.io/my-app.github.io/static/js/main.cba71044.chunk.js",
+    "main.js.map": "//irmaivanova.github.io/my-app.github.io/static/js/main.cba71044.chunk.js.map",
+    "runtime~main.js": "//irmaivanova.github.io/my-app.github.io/static/js/runtime~main.3a52c0e5.js",
+    "runtime~main.js.map": "//irmaivanova.github.io/my-app.github.io/static/js/runtime~main.3a52c0e5.js.map",
+    "static/css/2.38695677.chunk.css": "//irmaivanova.github.io/my-app.github.io/static/css/2.38695677.chunk.css",
+    "static/js/2.27aa2ba4.chunk.js": "//irmaivanova.github.io/my-app.github.io/static/js/2.27aa2ba4.chunk.js",
+    "static/js/2.27aa2ba4.chunk.js.map": "//irmaivanova.github.io/my-app.github.io/static/js/2.27aa2ba4.chunk.js.map",
+    "index.html": "//irmaivanova.github.io/my-app.github.io/index.html",
+    "precache-manifest.cb5aa3ce88bc5176b5fff038dc01b892.js": "//irmaivanova.github.io/my-app.github.io/precache-manifest.cb5aa3ce88bc5176b5fff038dc01b892.js",
+    "service-worker.js": "//irmaivanova.github.io/my-app.github.io/service-worker.js",
+    "static/css/2.38695677.chunk.css.map": "//irmaivanova.github.io/my-app.github.io/static/css/2.38695677.chunk.css.map",
+    "static/css/main.5c5bf409.chunk.css.map": "//irmaivanova.github.io/my-app.github.io/static/css/main.5c5bf409.chunk.css.map",
+    "static/media/1.jpeg": "//irmaivanova.github.io/my-app.github.io/static/media/1.286932d1.jpeg",
+    "static/media/2.jpeg": "//irmaivanova.github.io/my-app.github.io/static/media/2.758bdcb3.jpeg",
+    "static/media/3.jpeg": "//irmaivanova.github.io/my-app.github.io/static/media/3.d0daeaca.jpeg",
+    "static/media/4.jpeg": "//irmaivanova.github.io/my-app.github.io/static/media/4.ae852d25.jpeg",
+    "static/media/5.jpeg": "//irmaivanova.github.io/my-app.github.io/static/media/5.7580993e.jpeg",
+    "static/media/6.jpeg": "//irmaivanova.github.io/my-app.github.io/static/media/6.7580993e.jpeg",
+    "static/media/7.jpeg": "//irmaivanova.github.io/my-app.github.io/static/media/7.bc423471.jpeg",
+    "static/media/Carusel.css": "//irmaivanova.github.io/my-app.github.io/static/media/PlayButton.2232b9f7.svg",
+    "static/media/NavbarIcons.css": "//irmaivanova.github.io/my-app.github.io/static/media/flag.a68115d9.svg",
+    "static/media/InputButtons.css": "//irmaivanova.github.io/my-app.github.io/static/media/micrifone.76c1cf6a.svg",
+    "static/media/icon.png": "//irmaivanova.github.io/my-app.github.io/static/media/icon.a703a7b5.png",
+    "static/media/logo.svg": "//irmaivanova.github.io/my-app.github.io/static/media/logo.5b1349be.svg",
+    "static/media/Online.css": "//irmaivanova.github.io/my-app.github.io/static/media/play.4f62934c.svg",
+    "static/media/traffic.css": "//irmaivanova.github.io/my-app.github.io/static/media/traffic.741735d5.svg",
+    "static/media/Weather.css": "//irmaivanova.github.io/my-app.github.io/static/media/weather.0e8afa3f.svg"
+  }
+}
